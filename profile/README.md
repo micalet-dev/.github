@@ -7,3 +7,6 @@ Hola! Som l'equip darrere de Micalet GNU/Linux, la distro independent valenciana
 A aquesta pàgina de GitHub tens disponibles tots els repositoris relacionats amb la nostra distribució.
 Els paquets ja construits els pots trobar a la nostra pàgina de Launchpad:
 https://launchpad.net/~micalet-dev/
+
+## Vols col·laborar?
+Necessitem programadors, traductors i artistes! Si creus que pots ajudar, envia un correu a team@micalet.net!
